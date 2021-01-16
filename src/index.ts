@@ -2,6 +2,7 @@ import { isAndroid, isIos, isAnroidVersion, isIosVersion } from './platform'
 import { disableConsoleLogsInProd } from './optimizations'
 import { getHeightFromRatio, getWidthFromRatio, getAspectRatio } from './dimensions'
 import { useTextLines, useComponentSize } from './hooks'
+import { openLink, mailto } from './other'
 
 export {
   isAndroid,
@@ -14,4 +15,6 @@ export {
   getAspectRatio,
   useComponentSize,
   useTextLines,
+  openLink,
+  mailto,
 }

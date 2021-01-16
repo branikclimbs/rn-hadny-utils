@@ -32,6 +32,9 @@ npm install rn-handy-utils
 - **HOOKS** :
   - useComponentSize
   - useTextLines
+- **Other utils** :
+  - openLink
+  - mailto
 
 # License
 
