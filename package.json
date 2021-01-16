@@ -5,6 +5,15 @@
   "license": "MIT",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/branislaav/rn-hadny-utils.git"
+  },
+  "bugs": {
+    "url": "https://github.com/branislaav/rn-hadny-utils/issues"
+  },
+  "homepage": "https://github.com/branislaav/rn-hadny-utils#readme",
+  "description": "",
   "files": [
     "README.md",
     "LICENCE",
