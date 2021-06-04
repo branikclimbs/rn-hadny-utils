@@ -35,7 +35,7 @@
     "react-native": ">=0.59"
   },
   "devDependencies": {
-    "@types/react-native": "^0.63.2",
+    "@types/react-native": "^0.64.10",
     "prettier": "^2.2.1",
     "react": "16.13.1",
     "react-native": "0.63.4",
